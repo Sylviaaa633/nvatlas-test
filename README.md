@@ -7,5 +7,5 @@ This is my **lastest project**.
 ### Welcome
 Hope you like it!
 
-## Table test
+### Table test
 | Syntax | Description |
